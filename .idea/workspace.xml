@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63d7822a-de84-4f62-af67-514a65e1a316" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_3/src/pg_60057/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week_3/src/pg_60057/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +116,7 @@
       <workItem from="1662035866127" duration="423000" />
       <workItem from="1662037328303" duration="254000" />
       <workItem from="1662039409328" duration="1168000" />
-      <workItem from="1663761796938" duration="4532000" />
+      <workItem from="1663761796938" duration="6378000" />
     </task>
     <servers />
   </component>
@@ -144,8 +144,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Week_3/src/pg_60057/Solution.java</url>
-          <line>57</line>
-          <option name="timeStamp" value="3" />
+          <line>60</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
