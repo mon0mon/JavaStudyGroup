@@ -49,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.courses30_lessons60057">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bj_2557.Main" />
       <module name="Week_1" />
@@ -111,8 +111,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.courses30_lessons60057" />
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.courses30_lessons60057" />
         <item itemvalue="Application.bj_1152.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.bj_18108.Main" />
@@ -131,7 +131,7 @@
       <workItem from="1662037328303" duration="254000" />
       <workItem from="1662039409328" duration="1168000" />
       <workItem from="1663761796938" duration="9459000" />
-      <workItem from="1663806460324" duration="2249000" />
+      <workItem from="1663806460324" duration="3594000" />
     </task>
     <servers />
   </component>
@@ -153,14 +153,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Week_3/src/pg_60057/Solution.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Week_3/src/pg_60057/courses30_lessons60057.java</url>
           <line>64</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Week_3/src/pg_60057/Solution.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
