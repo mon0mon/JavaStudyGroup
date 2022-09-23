@@ -3,6 +3,8 @@ package pg_60057;
 /*
 https://school.programmers.co.kr/learn/courses/30/lessons/60057?language=java
  */
+//  인바님 코드
+//  https://github.com/DEVSYJ/Algorithm/blob/master/src/main/java/programmers/courses30_lessons60057.java
 public class courses30_lessons60057 {
 
     /**
@@ -75,6 +77,9 @@ public class courses30_lessons60057 {
 
         String s5 = "xababcdcdababcdcd";
         System.out.println(solution(s5));
+
+        String s6 = "a";
+        System.out.println(solution(s6));
     }
 
 }
