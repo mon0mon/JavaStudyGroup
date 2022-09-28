@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63d7822a-de84-4f62-af67-514a65e1a316" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_3/src/pg_60057/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week_3/src/pg_60057/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_3/src/pg_60057/courses30_lessons60057.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week_3/src/pg_60057/courses30_lessons60057.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +49,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Best_Solution_1">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Best_Solution_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg_60057.Best_Solution_1" />
       <module name="Week_3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pg_60057.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bj_2941.Main" />
+      <module name="Week_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bj_2941.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,19 +102,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bj_1152.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bj_1152.Main" />
-      <module name="Week_3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bj_1152.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="courses30_lessons60057" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pg_60057.courses30_lessons60057" />
       <module name="Week_3" />
@@ -119,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Best_Solution_1" />
         <item itemvalue="Application.QCompressString" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.courses30_lessons60057" />
-        <item itemvalue="Application.bj_1152.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +139,7 @@
       <workItem from="1663761796938" duration="9459000" />
       <workItem from="1663806460324" duration="3666000" />
       <workItem from="1663901776131" duration="4107000" />
+      <workItem from="1664366649848" duration="6674000" />
     </task>
     <servers />
   </component>
@@ -176,12 +175,16 @@
           <line>104</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Week_4/src/bj_2941/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="s.length()" language="JAVA" />
-        <watch expression="(s.length()/2)+1" language="JAVA" />
+        <watch expression="inputStr.length()" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
