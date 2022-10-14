@@ -5,6 +5,7 @@ import java.util.*;
 class Solution {
     // [3, 30, 34, 5, 9]
     // 9533430
+    // https://school.programmers.co.kr/learn/courses/30/lessons/42746
     public static void main(String[] args) {
         int[] array = {3, 30, 34, 5, 9};
 
@@ -12,71 +13,60 @@ class Solution {
     }
 
     public static String solution(int[] numbers) {
-        List<Integer> integerList = new ArrayList<>();
+        List<Integer> intList = new ArrayList<>();
+        List<String> stringList = new ArrayList<>();
         List<Integer> completeIntegerIndexList = new ArrayList<>();
         StringBuilder sb = new StringBuilder("");
 
         for (int item :
                 numbers) {
-            integerList.add(item);
+            intList.add(item);
+            stringList.add(Integer.toString(item));
         }
 
-        for (int i = 0; i < integerList.size(); i++) {
-            int choice = -1;
-            int choiceLog10 = 0;
+        for (int i = 0; i < stringList.size(); i++) {
+            String largestItem = "0";
             int index = 0;
 
-            for (int j = 0; j < integerList.size(); j++) {
+            for (int j = 0; j < stringList.size(); j++) {
                 if (completeIntegerIndexList.contains(j)) {
                     continue;
                 }
 
-                int holder = integerList.get(j);
-                int holderLog10 = (int) Math.log10(holder);
+                String holder = stringList.get(j);
+                int holderInt;
+                int largestItemInt;
 
-                if (choiceLog10 != holderLog10) {
-                    int choiceHolder = choice;
-                    //  가장 작은 수의 자릿수로만 비교하기
-                    if (choiceLog10 > holderLog10) {
-                        while ((int) Math.log10(choiceHolder) != holderLog10) {
-                            choiceHolder /= 10;
-                        }
-//                        choiceHolder = (int) (choice / Math.pow(10, holderLog10));
-                    } else if (choiceLog10 < holderLog10) {
-                        while ((int) Math.log10(holder) != choiceLog10) {
-                            holder /= 10;
-                        }
-//                        holder = (int) (holder / Math.pow(10, choiceLog10));
-                    }
+                if (largestItem.length() > holder.length()) {
+                    largestItemInt = Integer.parseInt(largestItem.substring(0, holder.length()));
+                    holderInt = intList.get(j);
 
-                    if (choiceHolder < holder) {
+                    if (largestItemInt < holderInt) {
                         index = j;
-                        choice = integerList.get(j);
-                        choiceLog10 = (int) Math.log10(choice);
-                    }  else if (choiceHolder == holder) {
-                        // 한자리 수만 구하면 되는데....
-                        if (choiceLog10 > holderLog10) {
-                            choiceHolder = choice;
-                            while ((int) Math.log10(choiceHolder) != holderLog10 + 1) {
-                                choice /= 10;
-                            }
+                        largestItem = holder;
+                    } else if (largestItemInt == holderInt) {
+                        for (int k = 1; k < largestItem.length() - holder.length(); k++) {
 
-                        } else {
+                        }
+                        if (Integer.parseInt(largestItem.substring(holder.length(), holder.length() + 1))
+                                <= Integer.parseInt(holder.substring(0, 1))) {
 
                         }
                     }
+                } else if (largestItem.length() < holder.length()) {
+                    largestItemInt = Integer.parseInt(largestItem);
+                    holderInt = Integer.parseInt(holder.substring(0, largestItem.length()));
+
                 } else {
-                    if (choice < holder) {
+                    largestItemInt = Integer.parseInt(largestItem);
+                    holderInt = Integer.parseInt(holder);
+
+                    if (largestItemInt < holderInt) {
                         index = j;
-                        choice = integerList.get(j);
-                        choiceLog10 = (int) Math.log10(choice);
+                        largestItem = holder;
                     }
                 }
             }
-
-//            integerList.remove(choice);
-            completeIntegerIndexList.add(index);
-            sb.append(choice);
         }
 
         return sb.toString();
