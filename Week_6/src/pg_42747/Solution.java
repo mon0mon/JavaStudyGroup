@@ -4,9 +4,18 @@ import java.util.*;
 
 class Solution {
     public static void main(String[] args) {
-        int[] citations = {3, 0, 6, 1, 5};
+        int[][] citations = {
+                {3, 1, 1, 1, 4},
+                {0, 0, 0, 0, 0, 0, 0},
+                {0, 0, 0, 1},
+                {9, 9, 9, 12},
+                {1, 1, 5, 7, 6}
+        };
 
-        System.out.println(solution(citations));
+        for (int[] item :
+                citations) {
+            System.out.println(solution(item));
+        }
     }
 
     //테스트 1 〉	통과 (16.31ms, 78.2MB)
@@ -53,7 +62,7 @@ class Solution {
 //            System.out.println("overCitation : " + overCitation + " lessCitation : "
 //                    + lessCitation + " index : " + i + " value : " + intList.get(i));
 
-            if (overCitation >= i && lessCitation <= i) {
+            if (overCitation >= i && lessCitation <= i && lessCitation > 0) {
                 hIdx = i;
             }
         }
