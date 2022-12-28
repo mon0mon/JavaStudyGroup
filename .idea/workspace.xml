@@ -50,10 +50,15 @@
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "zulu-11",
     "last_opened_file_path": "D:/Study/CodingTest/Group/JavaStudyGroup/Week_12",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.3900644",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -61,7 +66,7 @@
       <recent name="pg_42746" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Week_11" />
@@ -76,25 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Week_13" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bj_7569.Main" />
       <module name="Week_9" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="bj_7569.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="pg_42839.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg_42839.Solution" />
-      <module name="Week_7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pg_42839.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.pg_72411.Solution" />
-        <item itemvalue="Application.pg_42839.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +154,7 @@
       <workItem from="1667390176659" duration="10854000" />
       <workItem from="1669896328312" duration="3588000" />
       <workItem from="1671105896797" duration="4615000" />
+      <workItem from="1672227835615" duration="1922000" />
     </task>
     <servers />
   </component>
@@ -191,13 +191,18 @@
           <line>60</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Week_13/src/Main.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint enabled="true" type="java-exception">
-          <dependency id="1" master-id="0" />
+          <dependency id="0" master-id="1" />
         </breakpoint>
         <breakpoint type="javascript-exception">
-          <dependency id="0" master-id="1" />
+          <dependency id="1" master-id="0" />
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
