@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63d7822a-de84-4f62-af67-514a65e1a316" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_13/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week_13/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2EAQMVUn5F0gpIxgZrXmW9CU51q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -41,32 +44,32 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Project.color": "374909",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "zulu-11",
-    "last_opened_file_path": "D:/Study/CodingTest/Group/JavaStudyGroup/Week_12",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.3900644",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Project.color&quot;: &quot;374909&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;zulu-11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Study/CodingTest/Group/JavaStudyGroup/Week_12&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.3900644&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="pg_42746" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Week_11" />
@@ -101,26 +104,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pg_72411.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pg_72411.Solution" />
-      <module name="Week_8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pg_72411.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main2" />
+      <module name="Week_13" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.pg_72411.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +151,10 @@
       <workItem from="1667390176659" duration="10854000" />
       <workItem from="1669896328312" duration="3588000" />
       <workItem from="1671105896797" duration="4615000" />
-      <workItem from="1672227835615" duration="1922000" />
+      <workItem from="1672227835615" duration="8526000" />
+      <workItem from="1672640466374" duration="8000" />
+      <workItem from="1672641552256" duration="652000" />
+      <workItem from="1672705301729" duration="284000" />
     </task>
     <servers />
   </component>
@@ -192,20 +192,28 @@
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Week_13/src/Main.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="63" />
+          <condition expression="i &gt; 2" language="JAVA" />
+          <url>file://$PROJECT_DIR$/Week_13/src/Main2.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint enabled="true" type="java-exception">
-          <dependency id="0" master-id="1" />
+          <dependency id="1" master-id="0" />
         </breakpoint>
         <breakpoint type="javascript-exception">
-          <dependency id="1" master-id="0" />
+          <dependency id="0" master-id="1" />
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="num[i]" language="JAVA" />
+        <watch expression="Integer.toBinaryString(num[i]).charAt(ii)" language="JAVA" />
+        <watch expression="Integer.toBinaryString(num[i])" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
