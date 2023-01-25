@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63d7822a-de84-4f62-af67-514a65e1a316" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_13/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week_13/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,14 +69,7 @@
       <recent name="pg_42746" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Week_11" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Week_12" />
@@ -91,15 +84,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Week_14" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bj_7569.Main" />
-      <module name="Week_9" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bj_7569.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Week_15" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +149,9 @@
       <workItem from="1672640466374" duration="8000" />
       <workItem from="1672641552256" duration="652000" />
       <workItem from="1672705301729" duration="284000" />
+      <workItem from="1673438541141" duration="6327000" />
+      <workItem from="1673465812253" duration="4754000" />
+      <workItem from="1674648112937" duration="4473000" />
     </task>
     <servers />
   </component>
@@ -197,6 +194,11 @@
           <line>25</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Week_14/src/Main.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint enabled="true" type="java-exception">
@@ -209,9 +211,8 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="num[i]" language="JAVA" />
-        <watch expression="Integer.toBinaryString(num[i]).charAt(ii)" language="JAVA" />
-        <watch expression="Integer.toBinaryString(num[i])" language="JAVA" />
+        <watch expression="maps" />
+        <watch expression="visited" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
