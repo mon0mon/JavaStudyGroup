@@ -10,6 +10,7 @@ public class Main {
 
         int N = Integer.parseInt(br.readLine());
 
+        //  첫 시도
 //        if (N == 1) {
 //            System.out.println("1");
 //            return;
@@ -31,6 +32,21 @@ public class Main {
 //            if (bin.length() == 0) {
 //                count++;
 //            }
+//        }
+//        System.out.println(count);
+
+
+    //  두번째 시도
+    //  모든 숫자가 0이 될 수 있는 경우는 2로 설정
+    //  아닌 경우 1로 설정
+//        int count = N / 2 == 0 ? 2 : 1;
+//
+//        for (int i = 1; i <= Math.ceil((double)N / 2); i++) {
+//            if ((N - i) / 2 != 0) {
+//                continue;
+//            }
+//
+//
 //        }
 
         arr[0] = 0;
