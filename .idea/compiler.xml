@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Backjoon" target="11" />
+      <module name="Backjoon.main" target="11" />
+      <module name="Backjoon.test" target="11" />
+      <module name="Programmers" target="11" />
+      <module name="Programmers.main" target="11" />
+      <module name="Programmers.test" target="11" />
+      <module name="Week_21" target="11" />
+      <module name="Week_21.main" target="11" />
+      <module name="Week_21.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

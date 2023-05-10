@@ -3,10 +3,85 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="JavaStudyGroup" />
+      <module name="Week_21.main" />
+      <module name="Week_21.test" />
+      <module name="Programmers" />
+      <module name="Programmers.test" />
+      <module name="Programmers.main" />
+      <module name="Backjoon" />
+      <module name="Backjoon.test" />
+      <module name="Backjoon.main" />
+    </loaded-modules>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="63d7822a-de84-4f62-af67-514a65e1a316" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Backjoon/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backjoon/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backjoon/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backjoon/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/src/bj_18108/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backjoon/src/main/java/bj_18108/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_1/src/bj_2557/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backjoon/src/main/java/bj_2557/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_11/Week_11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_11/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_12/Week_12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_12/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_13/Week_13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_13/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_13/src/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_13/src/_1_secret_map.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_14/Week_14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_14/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_14/src/_14499.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_14/src/dice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_14/src/dice_roll.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_14/src/memo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_15/Week_15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_15/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_17/Week_17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_17/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_17/src/note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_18/Week_18.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_18/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_18/src/Solution_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_20/Week_20.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_20/src/.$pg_43164_graph.drawio.bkp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_20/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_20/src/pg_43164_graph.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_3/Week_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_3/src/bj_1152/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backjoon/src/main/java/bj_1152/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_3/src/pg_60057/Best_Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_60057/Best_Solution_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_3/src/pg_60057/Best_Solution_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_60057/Best_Solution_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_3/src/pg_60057/QCompressString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_60057/QCompressString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_3/src/pg_60057/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_60057/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_3/src/pg_60057/courses30_lessons60057.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_60057/courses30_lessons60057.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_4/Week_4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_4/src/bj_2941/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backjoon/src/main/java/bj_2941/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_4/src/pg_60058/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_60058/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_5/Week_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_5/src/pg_42840/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_6/Week_6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_6/src/pg_42746/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_42746/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_6/src/pg_42746/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_42746/Temp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_6/src/pg_42747/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_42747/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_7/Week_7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_7/src/bj_1181/bj_1181.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backjoon/src/main/java/bj_1181/bj_1181.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_7/src/pg_42839/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_42839/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_8/Week_8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_8/src/bj_2644/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backjoon/src/main/java/bj_2644/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_8/src/pg_72411/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_72411/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_9/Week_9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_9/src/bj_7569/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backjoon/src/main/java/bj_7569/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_9/src/bj_7569/정리.md" beforeDir="false" afterPath="$PROJECT_DIR$/Backjoon/src/main/java/bj_7569/정리.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +90,29 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/Backjoon">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Programmers">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Week_21">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -25,6 +123,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Zulu/zulu-11/lib/src.zip!/java.base/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="mbixijha" />
@@ -51,42 +152,35 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;zulu-11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Study/Computer/Web/CloneCoding/Spring_Vue/Spring_Vue_WebShop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Study/Computer/CodingTest/Group/JavaStudyGroup&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.3900644&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Study\Computer\CodingTest\Group\JavaStudyGroup\Programmers\src\main\java" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pg_154538" />
+      <recent name="" />
       <recent name="pg_42746" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution_01">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Week_17" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Week_15" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main2" />
-      <module name="Week_13" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,6 +192,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Week_21.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="Week_18" />
@@ -105,13 +206,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg_154538.Solution_01" />
+      <module name="Programmers.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pg_154538.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution_01" />
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -156,11 +270,20 @@
       <workItem from="1677382425591" duration="369000" />
       <workItem from="1678276890469" duration="8496000" />
       <workItem from="1681302976969" duration="6335000" />
+      <workItem from="1682511118829" duration="20000" />
+      <workItem from="1682511211999" duration="2277000" />
+      <workItem from="1683444240966" duration="13000" />
+      <workItem from="1683681085251" duration="938000" />
+      <workItem from="1683696912459" duration="2309000" />
+      <workItem from="1683723638987" duration="1355000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnloadedModulesList">
+    <module name="Week_1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -178,12 +301,12 @@
       <breakpoints>
         <line-breakpoint type="java-line">
           <condition expression="i &gt;= 2" language="JAVA" />
-          <url>file://$PROJECT_DIR$/Week_7/src/pg_42839/Solution.java</url>
+          <url>file://$PROJECT_DIR$/Programmers/src/main/java/pg_42839/Solution.java</url>
           <line>17</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Week_9/src/bj_7569/Main.java</url>
+          <url>file://$PROJECT_DIR$/Backjoon/src/main/java/bj_7569/Main.java</url>
           <line>123</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
@@ -206,10 +329,10 @@
       </breakpoints>
       <default-breakpoints>
         <breakpoint enabled="true" type="java-exception">
-          <dependency id="1" master-id="0" />
+          <dependency id="0" master-id="1" />
         </breakpoint>
         <breakpoint type="javascript-exception">
-          <dependency id="0" master-id="1" />
+          <dependency id="1" master-id="0" />
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>

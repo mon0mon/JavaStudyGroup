@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Backjoon.iml" filepath="$PROJECT_DIR$/Backjoon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Backjoon.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Backjoon.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Backjoon.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Backjoon.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaStudyGroup.iml" filepath="$PROJECT_DIR$/JavaStudyGroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmers.iml" filepath="$PROJECT_DIR$/Programmers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Programmers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Programmers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Programmers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Programmers.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week_1/Week_1.iml" filepath="$PROJECT_DIR$/Week_1/Week_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week_11/Week_11.iml" filepath="$PROJECT_DIR$/Week_11/Week_11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week_12/Week_12.iml" filepath="$PROJECT_DIR$/Week_12/Week_12.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week_13/Week_13.iml" filepath="$PROJECT_DIR$/Week_13/Week_13.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week_14/Week_14.iml" filepath="$PROJECT_DIR$/Week_14/Week_14.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week_15/Week_15.iml" filepath="$PROJECT_DIR$/Week_15/Week_15.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week_17/Week_17.iml" filepath="$PROJECT_DIR$/Week_17/Week_17.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week_18/Week_18.iml" filepath="$PROJECT_DIR$/Week_18/Week_18.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week_20/Week_20.iml" filepath="$PROJECT_DIR$/Week_20/Week_20.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week_3/Week_3.iml" filepath="$PROJECT_DIR$/Week_3/Week_3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week_4/Week_4.iml" filepath="$PROJECT_DIR$/Week_4/Week_4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week_5/Week_5.iml" filepath="$PROJECT_DIR$/Week_5/Week_5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week_6/Week_6.iml" filepath="$PROJECT_DIR$/Week_6/Week_6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week_7/Week_7.iml" filepath="$PROJECT_DIR$/Week_7/Week_7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week_8/Week_8.iml" filepath="$PROJECT_DIR$/Week_8/Week_8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week_9/Week_9.iml" filepath="$PROJECT_DIR$/Week_9/Week_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Week_21.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Week_21.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Week_21.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Week_21.test.iml" />
     </modules>
   </component>
 </project>

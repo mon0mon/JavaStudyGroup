@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Programmers" external.linked.project.path="$MODULE_DIR$/Programmers" external.root.project.path="$MODULE_DIR$/Programmers" external.system.id="GRADLE" external.system.module.group="org.example" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/Programmers">
+      <excludeFolder url="file://$MODULE_DIR$/Programmers/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/Programmers/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="zulu-11" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
