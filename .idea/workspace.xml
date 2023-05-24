@@ -17,10 +17,7 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d7822a-de84-4f62-af67-514a65e1a316" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/src/main/java/pg_154538/Solution_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_154538/Solution_01.java" afterDir="false" />
-    </list>
+    <list default="true" id="63d7822a-de84-4f62-af67-514a65e1a316" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -228,7 +225,7 @@
       <workItem from="1683723638987" duration="4602000" />
       <workItem from="1684923038455" duration="4008000" />
       <workItem from="1684929091287" duration="1263000" />
-      <workItem from="1684935015464" duration="652000" />
+      <workItem from="1684935015464" duration="1250000" />
     </task>
     <servers />
   </component>
