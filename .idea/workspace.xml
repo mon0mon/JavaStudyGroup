@@ -18,70 +18,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63d7822a-de84-4f62-af67-514a65e1a316" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Backjoon/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backjoon/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backjoon/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backjoon/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_1/src/bj_18108/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backjoon/src/main/java/bj_18108/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_1/src/bj_2557/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backjoon/src/main/java/bj_2557/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_11/Week_11.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_11/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_12/Week_12.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_12/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_13/Week_13.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_13/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_13/src/Main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_13/src/_1_secret_map.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_14/Week_14.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_14/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_14/src/_14499.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_14/src/dice.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_14/src/dice_roll.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_14/src/memo.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_15/Week_15.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_15/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_17/Week_17.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_17/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_17/src/note.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_18/Week_18.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_18/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_18/src/Solution_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_20/Week_20.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_20/src/.$pg_43164_graph.drawio.bkp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_20/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_20/src/pg_43164_graph.drawio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_3/Week_3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_3/src/bj_1152/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backjoon/src/main/java/bj_1152/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_3/src/pg_60057/Best_Solution_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_60057/Best_Solution_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_3/src/pg_60057/Best_Solution_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_60057/Best_Solution_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_3/src/pg_60057/QCompressString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_60057/QCompressString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_3/src/pg_60057/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_60057/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_3/src/pg_60057/courses30_lessons60057.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_60057/courses30_lessons60057.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_4/Week_4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_4/src/bj_2941/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backjoon/src/main/java/bj_2941/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_4/src/pg_60058/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_60058/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_5/Week_5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_5/src/pg_42840/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_6/Week_6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_6/src/pg_42746/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_42746/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_6/src/pg_42746/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_42746/Temp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_6/src/pg_42747/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_42747/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_7/Week_7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_7/src/bj_1181/bj_1181.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backjoon/src/main/java/bj_1181/bj_1181.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_7/src/pg_42839/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_42839/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_8/Week_8.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_8/src/bj_2644/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backjoon/src/main/java/bj_2644/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_8/src/pg_72411/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_72411/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_9/Week_9.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_9/src/bj_7569/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backjoon/src/main/java/bj_7569/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_9/src/bj_7569/정리.md" beforeDir="false" afterPath="$PROJECT_DIR$/Backjoon/src/main/java/bj_7569/정리.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/src/main/java/pg_154538/Solution_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_154538/Solution_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,14 +115,7 @@
       <recent name="pg_42746" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution_01">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Week_17" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.pg_42885.Solution">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="Week_20" />
@@ -195,13 +126,6 @@
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="Week_21.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="Week_18" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -219,13 +143,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg_154538.Solution_02" />
+      <module name="Programmers.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pg_154538.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pg_42885.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg_42885.Solution" />
+      <module name="Programmers.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pg_42885.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pg_42885.Solution" />
+        <item itemvalue="Application.Solution_02" />
         <item itemvalue="Application.Solution_01" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +225,10 @@
       <workItem from="1683444240966" duration="13000" />
       <workItem from="1683681085251" duration="938000" />
       <workItem from="1683696912459" duration="2309000" />
-      <workItem from="1683723638987" duration="1355000" />
+      <workItem from="1683723638987" duration="4602000" />
+      <workItem from="1684923038455" duration="4008000" />
+      <workItem from="1684929091287" duration="1263000" />
+      <workItem from="1684935015464" duration="652000" />
     </task>
     <servers />
   </component>
@@ -326,6 +279,11 @@
           <line>44</line>
           <option name="timeStamp" value="71" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programmers/src/main/java/pg_154538/Solution_02.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint enabled="true" type="java-exception">
@@ -336,6 +294,11 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="people[s] + people[e]" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

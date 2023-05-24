@@ -30,6 +30,14 @@ public class Solution_01 {
         return list.stream().mapToInt(i -> i).filter(i -> i > 0).min().getAsInt();
     }
 
+    //  바보 이건 dfs..
+    //  bfs는 queue를 사용한게 bfs
+    //  재귀나 stack을 사용한게 dfs
+
+    //  추가적으로 x*2와 x*3의 연산이 겹치는 부분이 있을텐데, 이 때 메모이제이션을 써서 값을 확인하면 실행시간 단축 가능
+    //  다만 이걸로 통과되는 코드인지는 불확실
+
+    //  dfs말고 bfs로 풀기
     public static void bfs(int x, int count) {
         if (x == goalNum) {
             list.add(count);
