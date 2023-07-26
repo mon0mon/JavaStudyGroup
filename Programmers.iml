@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Programmers/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/Programmers/build" />
     </content>
-    <orderEntry type="jdk" jdkName="zulu-11" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

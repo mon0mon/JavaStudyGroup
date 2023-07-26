@@ -5,21 +5,28 @@
   </component>
   <component name="AutomaticModuleUnloader">
     <loaded-modules>
-      <module name="JavaStudyGroup" />
-      <module name="Week_21.main" />
-      <module name="Week_21.test" />
-      <module name="Programmers" />
+      <module name="Backjoon" />
       <module name="Programmers.test" />
       <module name="Programmers.main" />
-      <module name="Backjoon" />
+      <module name="Week_21.main" />
       <module name="Backjoon.test" />
+      <module name="Week_21.test" />
       <module name="Backjoon.main" />
+      <module name="Programmers" />
+      <module name="JavaStudyGroup" />
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d7822a-de84-4f62-af67-514a65e1a316" name="Changes" comment="">
+    <list default="true" id="63d7822a-de84-4f62-af67-514a65e1a316" name="Changes" comment="PG_92342 양궁대회&#10;DFS로 풀어볼 수 있다는데, 막상 코드로는 어떻게 옮겨야할 지 모르겟음...&#10;다시 풀어보기">
+      <change afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_92342/PG_92342.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/src/main/java/pg_92342/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Backjoon.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Backjoon.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Backjoon.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Backjoon.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Programmers.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Programmers.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Programmers.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Programmers.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_21.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backjoon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Backjoon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +62,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
     <option name="SCHEME" value="Project" />
@@ -85,30 +92,30 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Project.color": "374909",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "zulu-11",
-    "last_opened_file_path": "D:/Study/Computer/CodingTest/Group/JavaStudyGroup",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.3900644",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Project.color&quot;: &quot;374909&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;zulu-11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Study/Computer/CodingTest/Group/JavaStudyGroup&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.3900644&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Study\Computer\CodingTest\Group\JavaStudyGroup\Programmers\src\main\java" />
@@ -125,7 +132,20 @@
       <recent name="pg_42746" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.bj_1744Test">
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pg_92342.Solution" />
+      <module name="Programmers.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pg_92342.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="bj_1744Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -198,30 +218,6 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="bj_1744Test.case04" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/Backjoon" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;bj_1744.bj_1744Test.case04&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>true</ForceTestExec>
-      <method v="2" />
-    </configuration>
     <configuration name="bj_1744Test.case06" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -248,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Gradle.bj_1744Test" />
         <item itemvalue="Gradle.bj_1744Test.case03" />
         <item itemvalue="Gradle.bj_1744Test.case01" />
         <item itemvalue="Gradle.bj_1744Test.case06" />
-        <item itemvalue="Gradle.bj_1744Test.case04" />
       </list>
     </recent_temporary>
   </component>
@@ -310,6 +306,7 @@
       <workItem from="1686725769074" duration="240000" />
       <workItem from="1686726013324" duration="1441000" />
       <workItem from="1686743893309" duration="7716000" />
+      <workItem from="1690372685266" duration="4064000" />
     </task>
     <servers />
   </component>
@@ -329,6 +326,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PG_92342 양궁대회&#10;DFS로 풀어볼 수 있다는데, 막상 코드로는 어떻게 옮겨야할 지 모르겟음...&#10;다시 풀어보기" />
+    <option name="LAST_COMMIT_MESSAGE" value="PG_92342 양궁대회&#10;DFS로 풀어볼 수 있다는데, 막상 코드로는 어떻게 옮겨야할 지 모르겟음...&#10;다시 풀어보기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
